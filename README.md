@@ -1,0 +1,2 @@
+# HackGoto
+A scholarship website
